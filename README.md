@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasalmarcon
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node js and database
+- 🌱 I’m currently learning node js ,React JS and database
 - 💞️ I’m looking to collaborate on web related projects
 - 📫 How to reach me sasalmarcon@gmail.com
 
